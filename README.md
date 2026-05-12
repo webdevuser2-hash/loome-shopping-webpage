@@ -1,0 +1,1 @@
+It's my first task of the day in which i have used HTML and CSS for structuring and styling the web page which i recommend you to watch in 14-inch laptop because it's not responsive but i have used so many features of CSS such as flex-box , positions , nth-child , after and before so you can learn a lot through this one
