@@ -1,1 +1,5 @@
-It's my first task of the day given by sheryians coding school in which i have used HTML and CSS for structuring and styling the web page which i recommend you to watch in 14-inch laptop because it's not responsive but i have used so many features of CSS such as flex-box , positions , nth-child , after and before so you can learn a lot through this one
+It’s my first task of the day given by Sheryians Coding School. In this project, I used HTML and CSS for structuring and styling the webpage.
+
+I’d recommend viewing it on a 14-inch laptop because it’s not responsive yet, but while building it I explored many CSS features such as Flexbox, Positions, nth-child, ::before, and ::after.
+
+You can learn a lot from this project, and I’ll keep improving it as I continue my web development journey 🚀
